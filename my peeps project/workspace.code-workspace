@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "my peeps project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my peeps project"
+	}
+}
